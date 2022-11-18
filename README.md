@@ -1,16 +1,35 @@
-### Hi there 👋
+# :pushpin: 데이터분석 희망가 이해강
 
-<!--
-**leehg9805/leehg9805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+## 1. 학력
+- 2014~2017 학성고등학교(졸업)
+- 2017~2023 동아대학교 경영정보학과(졸업예정)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+## 2. 코딩능력
+- SQL (중)
+- Python (중)
+- C++ (하)
+- Java (하)
+- JavaScript (하)
+
+<br>
+
+## 3. 완성한 프로젝트
+- 증상을 통한 병명 예측(팀 프로젝트)(2022)
+- 원룸 풀 옵션 디텍션(팀 프로젝트)(2022)
+- 피부질환을 디텍션을 통한 스킨케어(팀 프로젝트)(2022)
+- CNN를 통한 피부암 종류 예측(팀 프로젝트)(2022)
+- 네이버 시리즈 데이터를 코사인을 이용한 영화 추천 시스템(2022)(개인 프로젝트)
+- kaggle 중고차 가격예측(2022)(개인 프로젝트)
+- 영화 댓글을 통한 영화 긍부정(2022)(개인 프로젝트)
+- kaggle 심부전을 통한 사망여부 데이터분석(2022)(개인 프로젝트)
+- kaggle airbnb 데이터를 이용한 숙박비 예측 데이터분석(2022)(개인 프로젝트)
+- 위키독스를 통해 챗봇 만들기(2022)(개인 프로젝트)
+
+</br>
+
+## 4. 공부한 책
+- 데이터 분석을 위한 SQL 레시피(2022)
